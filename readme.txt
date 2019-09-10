@@ -1,17 +1,8 @@
-Content included in the game (maps, textures, sounds, models etc.) may have
-individual copyrights and distribution restrictions (see individual readmes),
-note that all content in Red Eclipse is intended to be "open source" friendly.
+This is the repository for Red Eclipse contributions by Alex "molexted" Foster.
 
-In the absence of an explicit license, content is considered to be covered by
-the CC-BY-SA license, either version 3.0 or (at your option) any later version,
-you may use the content in Red Eclipse so long as you obey individual
-licensing criteria.
+All works herein are licensed under the WTFPL v2 (wtfpl.org); license also provided in this folder (README.md).
+This license essentially releases the works herein into the public domain, with no restrictions whatsoever on use, modification, attribution, or commercialization.
+This license additionally allows relicensing these works under any other license.
 
-    Red Eclipse, Copyright (C) 2009-2016 Red Eclipse Team
-    Creative Commons Attribution ShareAlike 3.0+ License (CC-BY-SA)
-    See cc-by-sa.txt or http://creativecommons.org/licenses/by-sa/3.0/
-
-For a license breakdown of all content in Red Eclipse, see all-licenses.txt.
-
-The use of trademarks unique to the Red Eclipse project are in addition
-governed by the Red Eclipse Mark Policy (see trademark.txt).
+In doing so, the author is providing the works "as-is" with no warranty or guarantee of fitness of any kind,
+and to the extent of applicable law is not liable for any damages caused by the use of these works.
